@@ -5,4 +5,5 @@
     <string name="crime_title_label">Название</string>
     <string name="crime_details_label">Подробно</string>
     <string name="crime_solved_label">Решено</string>
+    <string name="call_police">Позвонить в полицию</string>
 </resources>
